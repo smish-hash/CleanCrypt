@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.ui.theme
+package com.smish.cleancrypt.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

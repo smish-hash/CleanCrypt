@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt
+package com.smish.cleancrypt
 
 import org.junit.Test
 
