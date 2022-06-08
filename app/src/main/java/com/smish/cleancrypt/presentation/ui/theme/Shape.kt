@@ -1,4 +1,4 @@
-package com.smish.cleancrypt.ui.theme
+package com.smish.cleancrypt.presentation
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

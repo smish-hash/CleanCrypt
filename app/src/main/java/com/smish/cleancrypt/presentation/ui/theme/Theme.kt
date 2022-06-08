@@ -1,4 +1,4 @@
-package com.smish.cleancrypt.ui.theme
+package com.smish.cleancrypt.presentation
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors

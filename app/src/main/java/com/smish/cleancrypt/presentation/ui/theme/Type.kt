@@ -1,4 +1,4 @@
-package com.smish.cleancrypt.ui.theme
+package com.smish.cleancrypt.presentation
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
